@@ -17,7 +17,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo_2023.svg" alt="ChatGPT" width="40" height="40"/>
   </a>  
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Gemini_Logo_2023.svg" alt="Gemini" width="40" height="40"/>
+    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="40" height="40"/>
   </a>  
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
