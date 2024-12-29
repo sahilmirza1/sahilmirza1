@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/OpenCV_Logo.png" alt="OpenCV" width="40" height="40"/>
+    <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40"/>
   </a>  
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo_2023.svg" alt="ChatGPT" width="40" height="40"/>
