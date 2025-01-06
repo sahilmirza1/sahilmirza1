@@ -14,8 +14,7 @@
     <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40"/>
   </a>  
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
-    <img src=![OpenAI Logo](https://openai.com/brand/openai-logo.svg)
-" width="40" height="40"/>
+    <img src="chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fchatgpt.com%2F" width="40" height="40"/>
   </a>  
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="40" height="40"/>
