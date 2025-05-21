@@ -1,4 +1,4 @@
-🔗 ABOUT ME
+🔗 **ABOUT ME**
 
 🎓 Degree: B-Tech in Computer Science & Engineering 
 🚀 Passionate about AI, Machine Learning, Technology, Software development and Creating Innovative Solutions
