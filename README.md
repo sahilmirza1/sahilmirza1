@@ -35,5 +35,13 @@ sahil-mirza-7218582b7
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>  
+  <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HubSpot_Logo.svg" alt="HubSpot" width="40" height="40"/>
+  </a>  
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
+  </a>  
+  <a href="https://github.com/joaomdmoura/crewAI" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/main/docs/logo.png" alt="CrewAI" width="40" height="40"/>
+  </a>  
 </p>
-
