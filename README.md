@@ -42,6 +42,6 @@ sahil-mirza-7218582b7
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
   </a>  
   <a href="https://github.com/joaomdmoura/crewAI" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/main/docs/logo.png" alt="CrewAI" width="40" height="40"/>
+    <img src="https://mintlify.s3.us-west-1.amazonaws.com/crewai/crew_only_logo.png" alt="CrewAI" width="40" height="40"/>
   </a>  
 </p>
