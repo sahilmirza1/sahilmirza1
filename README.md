@@ -8,7 +8,7 @@ sahil-mirza-7218582b7
 📬 Contact: sahilmirzacodes@gmail.com
 
 
-### 🛠️ Languages and Tools  
+# 🛠️ Languages and Tools  
 
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
