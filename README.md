@@ -110,4 +110,7 @@ sahil-mirza-7218582b7
 <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:680/1*AIlWq29GeP1eny3wA7aMgA.png" alt="Tikinter" width="40" height="40"/>
   </a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
+  </a>
 </p>
