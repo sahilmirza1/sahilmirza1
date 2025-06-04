@@ -81,7 +81,7 @@ sahil-mirza-7218582b7
     <img src="https://almablog-media.s3.ap-south-1.amazonaws.com/Screenshot_2023_09_21_142659_07c4c61c97.png" alt="Codepen" width="40" height="40"/>
   </a> 
 <a href="https://selectorshub.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJWHlgGjbAhRZNe-IsehWC3HXrTp_BJywtw&s" alt="SelectorHub" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/67390713?s=280&v=4" alt="SelectorHub" width="40" height="40"/>
   </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker" width="40" height="40"/>
