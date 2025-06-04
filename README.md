@@ -1,7 +1,7 @@
 # 🔗 **ABOUT ME**
 
-🎓 Degree: B-Tech in Computer Science & Engineering 
-🚀 Passionate about AI, Machine Learning, Technology, Software development and Creating Innovative Solutions
+<p> 🎓 Degree: B-Tech in Computer Science & Engineering </p>
+<p> 🚀 Passionate about AI, Machine Learning, Technology, Software development and Creating Innovative Solutions </p>
 💬 Personal mission: To build AI-based solution that solve global problems and simplify everyday life 
 📝 www.linkedin.com/in/
 sahil-mirza-7218582b7
