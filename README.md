@@ -84,7 +84,7 @@ sahil-mirza-7218582b7
     <img src="https://avatars.githubusercontent.com/u/67390713?s=280&v=4" alt="SelectorHub" width="40" height="40"/>
   </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://bunnyacademy.b-cdn.net/what-is-docker.png" alt="Docker" width="40" height="40"/>
+    <img src="https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.7.0/1747837792406/Microsoft.VisualStudio.Services.Icons.Default" alt="Docker" width="40" height="40"/>
   </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://sysdig.com/wp-content/uploads/2017/11/Kubernetes_1-1024x769.jpg" alt="Kubernetes" width="40" height="40"/>
