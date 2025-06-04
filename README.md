@@ -46,5 +46,8 @@ sahil-mirza-7218582b7
   </a>  
  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAxIzs2yRTPxONA1yBwMZdhkNwlqmIpxFug&s" alt="CrewAI" width="40" height="40"/>
-  </a>  
+  </a> 
+<a href="https://asana.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFIN9-DlCrcOu5Ig217OZTex1O0W9wiVmDg&s" alt="CrewAI" width="40" height="40"/>
+  </a>   
 </p>
