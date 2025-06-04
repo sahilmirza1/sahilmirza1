@@ -107,9 +107,6 @@ sahil-mirza-7218582b7
 <a href="https://pypi.org/project/PyAutoGUI/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:836/0*DdGRnnrtgFZ_KA-Y" alt="PyAutoGUI" width="40" height="40"/>
   </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrTWz33b86nfIrgaW9jE_t-7VCcqJtjL-pg&s" alt="Numpy" width="40" height="40"/>
-  </a>
 <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:680/1*AIlWq29GeP1eny3wA7aMgA.png" alt="Tkinter" width="40" height="40"/>
   </a>
