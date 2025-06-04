@@ -87,7 +87,7 @@ sahil-mirza-7218582b7
     <img src="https://media.wiki-power.com/img/20210116153041.png" alt="Docker" width="40" height="40"/>
   </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://sysdig.com/wp-content/uploads/2017/11/Kubernetes_1-1024x769.jpg" alt="Kubernetes" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/791px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="40" height="40"/>
   </a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200" alt="VertualBox" width="40" height="40"/>
