@@ -5,7 +5,7 @@
 💬 Personal mission: To build AI-based solution that solve global problems and simplify everyday life 
 📝 www.linkedin.com/in/
 sahil-mirza-7218582b7
-📬 Contact: www.mirzasahil.com@gmail.com
+📬 Contact: sahilmirzacodes@gmail.com
 
 
 ### 🛠️ Languages and Tools  
