@@ -49,5 +49,8 @@ sahil-mirza-7218582b7
   </a> 
 <a href="https://asana.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFIN9-DlCrcOu5Ig217OZTex1O0W9wiVmDg&s" alt="CrewAI" width="40" height="40"/>
-  </a>   
+  </a>  
+<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
+    <img src="https://yt3.googleusercontent.com/-g1yXVdo-xGsVFkeennDG9eofh2tSRosgqCB-xspMNlDl4x6EGyBWDTh9nSMwiD1MN8WFyk_Iw=s900-c-k-c0x00ffffff-no-rj" alt="CrewAI" width="40" height="40"/>
+  </a>    
 </p>
