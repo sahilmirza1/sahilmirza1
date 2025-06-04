@@ -19,9 +19,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="60" height="60"/>
-  </a>  
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/180px-ChatGPT-Logo.svg.png" width="60" height="60"/>
   </a>  
