@@ -113,4 +113,13 @@ sahil-mirza-7218582b7
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
   </a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png" alt="Mysql" width="40" height="40"/>
+  </a>
 </p>
