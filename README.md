@@ -2,10 +2,10 @@
 
 <p> 🎓 Degree: B-Tech in Computer Science & Engineering </p>
 <p> 🚀 Passionate about AI, Machine Learning, Technology, Software development and Creating Innovative Solutions </p>
-💬 Personal mission: To build AI-based solution that solve global problems and simplify everyday life 
-📝 www.linkedin.com/in/
-sahil-mirza-7218582b7
-📬 Contact: sahilmirzacodes@gmail.com
+<p> 💬 Personal mission: To build AI-based solution that solve global problems and simplify everyday life </p>
+<p> 📝 www.linkedin.com/in/ </p>
+<p> sahil-mirza-7218582b7</p>
+<p> 📬 Contact: sahilmirzacodes@gmail.com </p>
 
 
 # 🛠️ Languages and Tools  
