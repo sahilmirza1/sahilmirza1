@@ -53,4 +53,31 @@ sahil-mirza-7218582b7
 <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
     <img src="https://yt3.googleusercontent.com/-g1yXVdo-xGsVFkeennDG9eofh2tSRosgqCB-xspMNlDl4x6EGyBWDTh9nSMwiD1MN8WFyk_Iw=s900-c-k-c0x00ffffff-no-rj" alt="CrewAI" width="40" height="40"/>
   </a>    
+<a href="https://wampserver.aviatechno.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.bugtreat.com/blog/wp-content/uploads/2012/07/WampServer-logo.png" alt="CrewAI" width="40" height="40"/>
+  </a>    
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRRdU9q3LfQVdSrsCh3Ah0eaPLMY3K0Rne9g&s" alt="CrewAI" width="40" height="40"/>
+  </a> 
+<a href="https://support.google.com/analytics/answer/10089681?hl=en" target="_blank" rel="noreferrer">
+    <img src="https://channeleye.media/wp-content/uploads/2022/11/GA4-GA4.png" alt="CrewAI" width="40" height="40"/>
+  </a>    
+<a href="https://wp-cli.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2IvtR0ivP6t4UBQhhCo8dZMZBngJ7EHHrA&s" alt="CrewAI" width="40" height="40"/>
+  </a>   
+<a href="https://mouseflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.insightplatforms.com/wp-content/uploads/2022/05/Vertical-SQ-500.jpg" alt="CrewAI" width="40" height="40"/>
+  </a>   
+<a href="www.airtable.com" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMATs5ku3SZ5uNwwmzACeW72uWfzASAQ8ctw&s" alt="CrewAI" width="40" height="40"/>
+  </a> 
+<a href="https://meldmerge.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Meld_Logo.svg/1200px-Meld_Logo.svg.png" alt="CrewAI" width="40" height="40"/>
+  </a> 
+<a href="https://developer.chrome.com/docs/devtools" target="_blank" rel="noreferrer">
+    <img src="https://ralfvanveen.com/wp-content/uploads/2021/06/Chrome-dev-tools-_-Glossary.svg" alt="CrewAI" width="40" height="40"/>
+  </a> 
+<a href="https://codepen.io/" target="_blank" rel="noreferrer">
+    <img src="https://almablog-media.s3.ap-south-1.amazonaws.com/Screenshot_2023_09_21_142659_07c4c61c97.png" alt="CrewAI" width="40" height="40"/>
+  </a> 
 </p>
