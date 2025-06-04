@@ -115,9 +115,6 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="60" height="60"/>
   </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1.png" alt="Mysql" width="60" height="60"/>
-  </a>
 <a href="https://www.whois.com/whois/" rel="noreferrer">
     <img src="https://www.whois.com/images/twimg.png" alt="Whois" width="60" height="60"/>
   </a>
