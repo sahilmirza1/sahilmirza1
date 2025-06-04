@@ -12,7 +12,7 @@ sahil-mirza-7218582b7
 
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   </a>  
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="NumPy" width="40" height="40"/>
