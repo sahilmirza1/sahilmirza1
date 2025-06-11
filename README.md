@@ -118,4 +118,7 @@
 <a href="https://www.whois.com/whois/" rel="noreferrer">
     <img src="https://www.whois.com/images/twimg.png" alt="Whois" width="60" height="60"/>
   </a>
+<a href="https://git-scm.com/">
+    <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="Git" width="60" height="60"/>
+  </a>
 </p>
