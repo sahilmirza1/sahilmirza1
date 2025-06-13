@@ -127,4 +127,7 @@
 <a href="https://react.dev/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" alt="React" width="60" height="60"/>
   </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devops.dev%2Fan-introduction-to-jenkins-setting-up-and-optimizing-your-ci-cd-pipeline-48c2c212b575&psig=AOvVaw3wXfg1Clpa9pTx1gVv75Bv&ust=1749929980416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjMgKqT740DFQAAAAAdAAAAABAE" alt="Jenkins" width="60" height="60"/>
+  </a>
 </p>
