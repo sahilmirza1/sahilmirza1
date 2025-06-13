@@ -124,4 +124,7 @@
 <a href="https://getbootstrap.com/">
     <img src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="Bootstrap" width="60" height="60"/>
   </a>
+<a href="https://react.dev/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" alt="React" width="60" height="60"/>
+  </a>
 </p>
