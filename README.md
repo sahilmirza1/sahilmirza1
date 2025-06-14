@@ -128,6 +128,9 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s" alt="React" width="60" height="60"/>
   </a>
   <a href="https://www.jenkins.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt"Jenkins" width="60" height="60"/>
+  </a>
+  <a href="https://www.pygame.org/tags/pygame">
+    <img src="https://www.pygame.org/docs/_images/pygame_logo.png" alt"Pygame" width="60" height="60"/>
   </a>
 </p>
